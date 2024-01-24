@@ -1,0 +1,18 @@
+C:\Users\Cookay\Desktop\BaseClocks-SNPo\BaseClocks_BZ\bin\Release\BaseClocks.dll.config
+C:\Users\Cookay\Desktop\BaseClocks-SNPo\BaseClocks_BZ\bin\Release\BaseClocks.dll
+C:\Users\Cookay\Desktop\BaseClocks-SNPo\BaseClocks_BZ\bin\Release\BaseClocks.pdb
+C:\Users\Cookay\Desktop\BaseClocks-SNPo\BaseClocks_BZ\obj\Release\BaseClocks.csproj.AssemblyReference.cache
+C:\Users\Cookay\Desktop\BaseClocks-SNPo\BaseClocks_BZ\obj\Release\MyPluginInfo.cs
+C:\Users\Cookay\Desktop\BaseClocks-SNPo\BaseClocks_BZ\obj\Release\BaseClocks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cookay\Desktop\BaseClocks-SNPo\BaseClocks_BZ\obj\Release\BaseClocks.csproj.CoreCompileInputs.cache
+C:\Users\Cookay\Desktop\BaseClocks-SNPo\BaseClocks_BZ\obj\Release\BaseClocks.dll
+C:\Users\Cookay\Desktop\BaseClocks-SNPo\BaseClocks_BZ\obj\Release\BaseClocks.pdb
+C:\Users\Cookay\Desktop\Mod Sourcecode\Mod Singles\BaseClocks-SNPo\BaseClocks_BZ\bin\Release\BaseClocks.dll.config
+C:\Users\Cookay\Desktop\Mod Sourcecode\Mod Singles\BaseClocks-SNPo\BaseClocks_BZ\bin\Release\BaseClocks.dll
+C:\Users\Cookay\Desktop\Mod Sourcecode\Mod Singles\BaseClocks-SNPo\BaseClocks_BZ\bin\Release\BaseClocks.pdb
+C:\Users\Cookay\Desktop\Mod Sourcecode\Mod Singles\BaseClocks-SNPo\BaseClocks_BZ\obj\Release\BaseClocks.csproj.AssemblyReference.cache
+C:\Users\Cookay\Desktop\Mod Sourcecode\Mod Singles\BaseClocks-SNPo\BaseClocks_BZ\obj\Release\MyPluginInfo.cs
+C:\Users\Cookay\Desktop\Mod Sourcecode\Mod Singles\BaseClocks-SNPo\BaseClocks_BZ\obj\Release\BaseClocks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cookay\Desktop\Mod Sourcecode\Mod Singles\BaseClocks-SNPo\BaseClocks_BZ\obj\Release\BaseClocks.csproj.CoreCompileInputs.cache
+C:\Users\Cookay\Desktop\Mod Sourcecode\Mod Singles\BaseClocks-SNPo\BaseClocks_BZ\obj\Release\BaseClocks.dll
+C:\Users\Cookay\Desktop\Mod Sourcecode\Mod Singles\BaseClocks-SNPo\BaseClocks_BZ\obj\Release\BaseClocks.pdb

@@ -1,0 +1,9 @@
+C:\Users\Cookay\Desktop\BaseClocks-SNPo\BaseClocks_BZ\bin\Debug\BaseClocks.dll.config
+C:\Users\Cookay\Desktop\BaseClocks-SNPo\BaseClocks_BZ\bin\Debug\BaseClocks.dll
+C:\Users\Cookay\Desktop\BaseClocks-SNPo\BaseClocks_BZ\bin\Debug\BaseClocks.pdb
+C:\Users\Cookay\Desktop\BaseClocks-SNPo\BaseClocks_BZ\obj\Debug\BaseClocks.csproj.AssemblyReference.cache
+C:\Users\Cookay\Desktop\BaseClocks-SNPo\BaseClocks_BZ\obj\Debug\MyPluginInfo.cs
+C:\Users\Cookay\Desktop\BaseClocks-SNPo\BaseClocks_BZ\obj\Debug\BaseClocks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cookay\Desktop\BaseClocks-SNPo\BaseClocks_BZ\obj\Debug\BaseClocks.csproj.CoreCompileInputs.cache
+C:\Users\Cookay\Desktop\BaseClocks-SNPo\BaseClocks_BZ\obj\Debug\BaseClocks.dll
+C:\Users\Cookay\Desktop\BaseClocks-SNPo\BaseClocks_BZ\obj\Debug\BaseClocks.pdb
