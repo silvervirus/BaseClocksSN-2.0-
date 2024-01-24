@@ -1,0 +1,18 @@
+C:\Users\Cookay\Desktop\BaseClocks-BelowZeroPort\BaseClocks_BZ\bin\Release\BaseClocks_BZ.dll.config
+C:\Users\Cookay\Desktop\BaseClocks-BelowZeroPort\BaseClocks_BZ\bin\Release\BaseClocks_BZ.dll
+C:\Users\Cookay\Desktop\BaseClocks-BelowZeroPort\BaseClocks_BZ\bin\Release\BaseClocks_BZ.pdb
+C:\Users\Cookay\Desktop\BaseClocks-BelowZeroPort\BaseClocks_BZ\obj\Release\BaseClocks_BZ.csproj.AssemblyReference.cache
+C:\Users\Cookay\Desktop\BaseClocks-BelowZeroPort\BaseClocks_BZ\obj\Release\MyPluginInfo.cs
+C:\Users\Cookay\Desktop\BaseClocks-BelowZeroPort\BaseClocks_BZ\obj\Release\BaseClocks_BZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cookay\Desktop\BaseClocks-BelowZeroPort\BaseClocks_BZ\obj\Release\BaseClocks_BZ.csproj.CoreCompileInputs.cache
+C:\Users\Cookay\Desktop\BaseClocks-BelowZeroPort\BaseClocks_BZ\obj\Release\BaseClocks_BZ.dll
+C:\Users\Cookay\Desktop\BaseClocks-BelowZeroPort\BaseClocks_BZ\obj\Release\BaseClocks_BZ.pdb
+C:\Users\Cookay\Desktop\Mod Sourcecode\Mod Singles\BaseClocks-BelowZeroPort\BaseClocks_BZ\bin\Release\BaseClocks_BZ.dll.config
+C:\Users\Cookay\Desktop\Mod Sourcecode\Mod Singles\BaseClocks-BelowZeroPort\BaseClocks_BZ\bin\Release\BaseClocks_BZ.dll
+C:\Users\Cookay\Desktop\Mod Sourcecode\Mod Singles\BaseClocks-BelowZeroPort\BaseClocks_BZ\bin\Release\BaseClocks_BZ.pdb
+C:\Users\Cookay\Desktop\Mod Sourcecode\Mod Singles\BaseClocks-BelowZeroPort\BaseClocks_BZ\obj\Release\BaseClocks_BZ.csproj.AssemblyReference.cache
+C:\Users\Cookay\Desktop\Mod Sourcecode\Mod Singles\BaseClocks-BelowZeroPort\BaseClocks_BZ\obj\Release\MyPluginInfo.cs
+C:\Users\Cookay\Desktop\Mod Sourcecode\Mod Singles\BaseClocks-BelowZeroPort\BaseClocks_BZ\obj\Release\BaseClocks_BZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cookay\Desktop\Mod Sourcecode\Mod Singles\BaseClocks-BelowZeroPort\BaseClocks_BZ\obj\Release\BaseClocks_BZ.csproj.CoreCompileInputs.cache
+C:\Users\Cookay\Desktop\Mod Sourcecode\Mod Singles\BaseClocks-BelowZeroPort\BaseClocks_BZ\obj\Release\BaseClocks_BZ.dll
+C:\Users\Cookay\Desktop\Mod Sourcecode\Mod Singles\BaseClocks-BelowZeroPort\BaseClocks_BZ\obj\Release\BaseClocks_BZ.pdb

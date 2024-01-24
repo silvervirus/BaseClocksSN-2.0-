@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "1ZZhNuMU2S5DqIxOz/khr+aMgBohd21HED/50mU0Xs6uMVLc9L++k984EBOl+libLzSyj6Oba2X0Y8X822AFVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Cookay\\Desktop\\Mod Sourcecode\\Mod Singles\\BaseClocks-BelowZeroPort\\BaseClocks_BZ\\BaseClocks_BZ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cookay\\.nuget\\packages\\bepinex.analyzers\\1.0.8\\bepinex.analyzers.1.0.8.nupkg.sha512",
+    "C:\\Users\\Cookay\\.nuget\\packages\\bepinex.baselib\\5.4.20\\bepinex.baselib.5.4.20.nupkg.sha512",
+    "C:\\Users\\Cookay\\.nuget\\packages\\bepinex.core\\5.4.21\\bepinex.core.5.4.21.nupkg.sha512",
+    "C:\\Users\\Cookay\\.nuget\\packages\\bepinex.plugininfoprops\\2.1.0\\bepinex.plugininfoprops.2.1.0.nupkg.sha512",
+    "C:\\Users\\Cookay\\.nuget\\packages\\harmonyx\\2.7.0\\harmonyx.2.7.0.nupkg.sha512",
+    "C:\\Users\\Cookay\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "C:\\Users\\Cookay\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.2\\microsoft.netframework.referenceassemblies.net472.1.0.2.nupkg.sha512",
+    "C:\\Users\\Cookay\\.nuget\\packages\\mono.cecil\\0.11.4\\mono.cecil.0.11.4.nupkg.sha512",
+    "C:\\Users\\Cookay\\.nuget\\packages\\monomod.runtimedetour\\21.12.13.1\\monomod.runtimedetour.21.12.13.1.nupkg.sha512",
+    "C:\\Users\\Cookay\\.nuget\\packages\\monomod.utils\\21.12.13.1\\monomod.utils.21.12.13.1.nupkg.sha512",
+    "C:\\Users\\Cookay\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Cookay\\.nuget\\packages\\polysharp\\1.13.2\\polysharp.1.13.2.nupkg.sha512",
+    "C:\\Users\\Cookay\\.nuget\\packages\\subnautica.belowzero.gamelibs\\49371.0.0.1-r.0\\subnautica.belowzero.gamelibs.49371.0.0.1-r.0.nupkg.sha512",
+    "C:\\Users\\Cookay\\.nuget\\packages\\subnauticazero.nautilus\\1.0.0-pre.28\\subnauticazero.nautilus.1.0.0-pre.28.nupkg.sha512",
+    "C:\\Users\\Cookay\\.nuget\\packages\\unityengine.modules\\2019.4.36\\unityengine.modules.2019.4.36.nupkg.sha512"
+  ],
+  "logs": []
+}
